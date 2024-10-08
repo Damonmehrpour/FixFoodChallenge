@@ -86,9 +86,4 @@ The player is presented with a recipe step where they need to measure an ingredi
 **Escalation:**
 - Over time, the user may increase the complexity by working with trickier ingredients (e.g., measuring sticky ingredients like honey by eye) or by introducing time limits to estimate and pour.
 
-- **New Ingredient Types**: Expand the game to include tricky-to-measure ingredients like oils, syrups, or spices.
 
----
-
-## License
-This project is licensed under the MIT License – see the LICENSE file for details.
